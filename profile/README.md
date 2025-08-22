@@ -5,4 +5,4 @@
 </p>
 
 Official Website: [norsh.org](https://norsh.org/)<br/>
-Norsh [Documentation](https://docs.norsh.org/)
+Documentation: [docs.norsh.org](https://docs.norsh.org/)
